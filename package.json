@@ -3,7 +3,7 @@
     "express": "^4.18.2"
   },
   "name": "express",
-  "description": "Este repositório abriga o material e os projetos desenvolvidos durante o curso de Formação Node.js. Aqui você encontrará exemplos práticos, exercícios e projetos para ajudar na compreensão e no desenvolvimento de habilidades com Node.js, abrangendo desde os conceitos fundamentais até tópicos avançados.",
+  "description": "Iniciando com express",
   "version": "1.0.0",
   "main": "Seção 1 - Introdução ao Node.js",
   "scripts": {
