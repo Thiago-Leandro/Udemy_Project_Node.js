@@ -11,6 +11,7 @@ Considere o seguinte exemplo usando o framework Express.js para Node.js:
 app.get("/blog", function(req, res) {
     res.send("Bem-vindo ao meu blog");
 });
+```
 
 ## Neste exemplo:
 
