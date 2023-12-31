@@ -12,7 +12,7 @@ O **Express.js** é um framework minimalista e flexível para aplicativos web em
 ## Como Usar
 Instale o Express.js no seu projeto usando o npm (Node Package Manager):
 
-~~~~
+~~~
 npm install express
 ~~~
 
