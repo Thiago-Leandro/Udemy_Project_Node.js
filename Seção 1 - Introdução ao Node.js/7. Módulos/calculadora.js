@@ -1,5 +1,25 @@
+var nome = "Minha calculadora V1";
+
 function soma (a, b){
    return a + b
 }
 
-console.log(soma(10,20));
+function mult(a,b){
+   return a * b;
+}
+
+function sub(a,b){
+   return a-b;
+}
+
+function div(a,b){
+   return a/b;
+}
+
+module.exports = {
+   soma,
+   mult,
+   sub,
+   div,
+   nome
+};
